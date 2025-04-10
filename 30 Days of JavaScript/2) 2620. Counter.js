@@ -4,4 +4,4 @@ function createCounter(n){
     }
 }
 let f = createCounter()
-console.log(f())
+console.log(f()) //
