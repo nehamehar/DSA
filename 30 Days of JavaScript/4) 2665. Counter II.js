@@ -13,4 +13,4 @@ function createCounter(init){
     }
 }
 }
-console.log (createCounter());
+console.log (createCounter()); //
