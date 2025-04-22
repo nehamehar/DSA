@@ -1,7 +1,7 @@
 var filter = function(arr, fn) {
     const newarr = [];
     for (let i=0; i<arr.length; i++) {
-        if (fn(arr[i], i))
+        if (fn(arr[i], i)) //
             newarr.push(arr[i])
     }
     return newarr
